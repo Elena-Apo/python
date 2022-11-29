@@ -1,3 +1,3 @@
 # python
 
-term work with handwriting recognition
+term paper with handwriting recognition

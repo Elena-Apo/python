@@ -1,4 +1,4 @@
-# Handwritten Alphabet Recognition with CNN
+# CNN для распознования рукописного текста
 
 ## Описание проекта
 
